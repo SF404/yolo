@@ -1,0 +1,11 @@
+train: C:\Users\suhai\Desktop\Research\Models\Yolo\vehicle_dataset\train\images
+val: C:\Users\suhai\Desktop\Research\Models\Yolo\vehicle_dataset\valid\images
+nc: 6
+names: [
+'car',
+'threewheel',
+'bus',
+'truck',
+'motorbike',
+'van'
+]
